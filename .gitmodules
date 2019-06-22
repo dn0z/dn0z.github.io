@@ -1,0 +1,3 @@
+[submodule "docs/exchange-rates-api"]
+	path = docs/exchange-rates-api
+	url = git@github.com:dn0z/exchange-rates-api-docs.git
